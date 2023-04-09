@@ -177,7 +177,7 @@
        </widget>
       </item>
       <item>
-       <layout class="QVBoxLayout" name="verticalLayout_2" stretch="6,1,0">
+       <layout class="QVBoxLayout" name="verticalLayout_2" stretch="6,1,6">
         <item>
          <widget class="QGroupBox" name="groupBox">
           <property name="title">

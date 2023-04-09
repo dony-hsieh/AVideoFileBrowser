@@ -294,6 +294,7 @@ class Ui_MainWindow(object):
 
         self.verticalLayout_2.setStretch(0, 6)
         self.verticalLayout_2.setStretch(1, 1)
+        self.verticalLayout_2.setStretch(2, 6)
 
         self.horizontalLayout.addLayout(self.verticalLayout_2)
 
